@@ -30,7 +30,7 @@
 - **Convenciones_Traduccion**: https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md
 - **R Gapminder lección en español**: https://github.com/Carpentries-ES/r-novice-gapminder
 - **UNIX lección en español**: https://carpentries-es.github.io/shell-novice/
-- **Git lección en español**: https://carpentries-es.github.io/git-novice/
+- **Git lección en español**: https://swcarpentry.github.io/git-novice-es/
 
 ## Participantes
 - Nombre | GitHub | Twitter
