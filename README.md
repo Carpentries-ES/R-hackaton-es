@@ -36,7 +36,7 @@
 - Nombre | GitHub | Twitter
 - Rayna Harris | [@raynamharis](https://github.com/raynamharris) | [@raynamharis](https://twitter.com/raynamharris)
 - Juli Arancio | [@thessaly](https://github.com/thessaly) | [@Cassandreces](https://twitter.com/Cassandreces)
--
+- Panda | [@marshmaline](https://github.com/marshmaline)
 -
 -
 -
