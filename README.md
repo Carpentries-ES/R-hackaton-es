@@ -9,7 +9,7 @@
 - Obtenga información sobre la comunidad de Software Carpentry (SWC) y sus recursos para aprender a programar
 - Continúa traduciendo la lección SWC 'R Gapminder' de inglés a español
 - Practica enseñando las lecciones y obtén valiosos comentarios de tus compañeros
-- Planifique un taller oficial de SWC 
+- Planifique un taller oficial de SWC (quizás el 24-25 Marzo)
 
 ## Agenda
 
@@ -26,7 +26,20 @@
 
 ## Resources
 - R'lyeh Hacklab: https://t.co/YrSxvgAKWc
-- SWC website: https://software-carpentry.org/
+- Software Carpentry (SWC) website: https://software-carpentry.org/
 - R Gapminder lección en español: https://github.com/Carpentries-ES/r-novice-gapminder
-- UNIX lección en español: https://github.com/ErinBecker/shell-novice-es
-- Git lección en español: https://github.com/ErinBecker/git-novice-es
+- UNIX lección en español: https://carpentries-es.github.io/shell-novice/
+- Git lección en español: https://carpentries-es.github.io/git-novice/
+
+## Participantes
+- Nombre | GitHub | Twitter
+- Rayna Harris | @raynamharis | @raynamharis
+- Juli Arancio | @thessaly | @Cassandreces 
+-
+-
+-
+-
+-
+-
+-
+-
