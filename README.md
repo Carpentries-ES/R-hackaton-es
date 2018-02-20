@@ -13,8 +13,6 @@
 
 ## Agenda
 
-**24 Marzo 2018**
-
 | Time | Activity |
 | ----- | --------- |
 | 10:00 | Bienvenida e introducciones |
