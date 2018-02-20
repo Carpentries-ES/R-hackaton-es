@@ -25,16 +25,17 @@
 | 16:45 | Conclusión y foto de grupo |
 
 ## Resources
-- R'lyeh Hacklab: https://t.co/YrSxvgAKWc
-- Software Carpentry (SWC) website: https://software-carpentry.org/
-- R Gapminder lección en español: https://github.com/Carpentries-ES/r-novice-gapminder
-- UNIX lección en español: https://carpentries-es.github.io/shell-novice/
-- Git lección en español: https://carpentries-es.github.io/git-novice/
+- **R'lyeh Hacklab**: https://t.co/YrSxvgAKWc
+- **Software Carpentry (SWC) website**: https://software-carpentry.org/
+- **Convenciones_Traduccion**: https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md
+- **R Gapminder lección en español**: https://github.com/Carpentries-ES/r-novice-gapminder
+- **UNIX lección en español**: https://carpentries-es.github.io/shell-novice/
+- **Git lección en español**: https://carpentries-es.github.io/git-novice/
 
 ## Participantes
 - Nombre | GitHub | Twitter
-- Rayna Harris | @raynamharis | @raynamharis
-- Juli Arancio | @thessaly | @Cassandreces 
+- Rayna Harris | [@raynamharis](https://github.com/raynamharris) | [@raynamharis](https://twitter.com/raynamharris)
+- Juli Arancio | [@thessaly](https://github.com/thessaly) | [@Cassandreces](https://twitter.com/Cassandreces)
 -
 -
 -
