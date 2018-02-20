@@ -27,6 +27,8 @@
 | 16:45 | Conclusión y foto de grupo |
 
 ## Resources
+- R'lyeh Hacklab: https://t.co/YrSxvgAKWc
 - SWC website: https://software-carpentry.org/
 - R Gapminder lección en español: https://github.com/Carpentries-ES/r-novice-gapminder
-- R'lyeh Hacklab: https://t.co/YrSxvgAKWc
+- UNIX lección en español: https://github.com/ErinBecker/shell-novice-es
+- Git lección en español: https://github.com/ErinBecker/git-novice-es
