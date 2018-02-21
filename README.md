@@ -1,6 +1,6 @@
 # R Hackatón 
  
-##  Hackatón para traducir la "R Gapminder" leccion de Software Carpentry al español
+##  Hackatón para apoyar con la traducción de la "R Gapminder" leccion de Software Carpentry al español
 
 - **Location:** R'lyeh Hacklab?
 - **Cuando:** 24 Marzo 2018 de 10:00 a 17:00
@@ -17,7 +17,7 @@
 | ----- | --------- |
 | 10:00 | Bienvenida e introducciones |
 | 10:30 | Descripción de las prácticas de enseñanza de SWC y la lección 'R Gapminder' |
-| 11:00 | Traduciendo la lección SWC 'R Gapminder' |
+| 11:00 | Apoyar con la traducción de la lección SWC 'R Gapminder' |
 | 12:30 | Almuerzo |
 | 13:30 | Practica enseñando las lecciones |
 | 15:30 | Descanso |
