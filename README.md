@@ -3,7 +3,7 @@
 ##  Hackatón para apoyar con la traducción de la "R Gapminder" leccion de Software Carpentry al español
 
 - **Location:** R'lyeh Hacklab?
-- **Cuando:** 24 Marzo 2018 de 10:00 a 17:00
+- **Cuando:** 24 Febrero 2018 de 10:00 a 17:00
 
 ## Metas y objectives
 - Obtenga información sobre la comunidad de Software Carpentry (SWC) y sus recursos para aprender a programar
