@@ -29,7 +29,7 @@
 - **Software Carpentry (SWC) website**: https://software-carpentry.org/
 - **Convenciones_Traduccion**: https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md
 - **R Gapminder lección en español**: https://github.com/Carpentries-ES/r-novice-gapminder
-- **UNIX lección en español**: https://carpentries-es.github.io/shell-novice/
+- **UNIX lección en español**: https://swcarpentry.github.io/shell-novice-es/
 - **Git lección en español**: https://swcarpentry.github.io/git-novice-es/
 
 ## Participantes
