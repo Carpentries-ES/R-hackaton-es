@@ -2,7 +2,7 @@
  
 ##  Hackatón para apoyar con la traducción de la "R Gapminder" leccion de Software Carpentry al español
 
-- **Location:** R'lyeh Hacklab 
+- **Location:** R'lyeh Hacklab [¿Cómo ir al lab?](https://wiki.rlab.be/doku.php?id=como-llegar)
 - **Cuando:** 24 Febrero 2018 de 10:00 a 17:00
 
 ## Metas y objectives
