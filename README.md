@@ -3,7 +3,7 @@
 ##  Hackatón para apoyar con la traducción de la "R Gapminder" leccion de Software Carpentry al español
 
 - **Location:** R'lyeh Hacklab [¿Cómo ir al lab?](https://wiki.rlab.be/doku.php?id=como-llegar)
-- **Cuando:** 24 Febrero 2018 de 10:00 a 17:00
+- **Cuando:** 24 Febrero 2018 de 13:00 a 20:00
 
 ## Metas y objectives
 - Obtenga información sobre la comunidad de Software Carpentry (SWC) y sus recursos para aprender a programar
@@ -15,14 +15,14 @@
 
 | Time | Activity |
 | ----- | --------- |
-| 10:00 | Bienvenida e introducciones |
-| 10:30 | Descripción de las prácticas de enseñanza de SWC y la lección 'R Gapminder' |
-| 11:00 | [Apoyar con la traducción de la lección SWC 'R Gapminder'](https://github.com/Carpentries-ES/r-novice-gapminder/issues/46) |
-| 12:30 | Almuerzo |
-| 13:30 | Practica enseñando las lecciones |
-| 15:30 | Descanso |
-| 16:00 | Planifique un taller oficial de SWC |
-| 16:45 | Conclusión y foto de grupo |
+| 13:00 | Bienvenida e introducciones |
+| 13:30 | Descripción de las prácticas de enseñanza de SWC y la lección 'R Gapminder' |
+| 14:00 | [Apoyar con la traducción de la lección SWC 'R Gapminder'](https://github.com/Carpentries-ES/r-novice-gapminder/issues/46) |
+| 15:30 | Almuerzo |
+| 15:30 | Practica enseñando las lecciones |
+| 18:30 | Descanso |
+| 17:00 | Planifique un taller oficial de SWC |
+| 17:45 | Conclusión y foto de grupo |
 
 ## Resources
 - **R'lyeh Hacklab**: https://t.co/YrSxvgAKWc
