@@ -8,6 +8,7 @@
 ## Metas y objectives
 - Obtenga información sobre la comunidad de Software Carpentry (SWC) y sus recursos para aprender a programar
 - Continúa traduciendo la lección SWC 'R Gapminder' de inglés a español
+- Practica como usar git y github para publicar la leccion traducida
 - Practica enseñando las lecciones y obtén valiosos comentarios de tus compañeros
 - Planifique un taller oficial de SWC (quizás al fin de Marzo)
 
