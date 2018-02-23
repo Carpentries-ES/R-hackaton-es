@@ -5,6 +5,8 @@
 - **Lugar:** R'lyeh Hacklab [¿Cómo ir al lab?](https://wiki.rlab.be/doku.php?id=como-llegar)
 - **Cuando:** 24 Febrero 2018 de 13:00 a 20:00
 
+![](./img/hackaton.png)
+
 ## Metas y objectives
 - Obtenga información sobre la comunidad de Software Carpentry (SWC) y sus recursos para aprender a programar
 - Continúa traduciendo la lección SWC 'R Gapminder' de inglés a español. Detalles a https://github.com/Carpentries-ES/r-novice-gapminder/issues/48
