@@ -5,9 +5,10 @@
 - **Lugar:** R'lyeh Hacklab [¿Cómo ir al lab?](https://wiki.rlab.be/doku.php?id=como-llegar)
 - **Cuando:** 24 Febrero 2018 de 13:00 a 20:00
 
-## Metas y objetivos
-- Brindar información sobre la comunidad de Software Carpentry (SWC) y sus recursos para aprender a programar
-- Continuar traduciendo la lección SWC 'R Gapminder' de inglés a español
+## Metas y objectives
+- Obtenga información sobre la comunidad de Software Carpentry (SWC) y sus recursos para aprender a programar
+- Continúa traduciendo la lección SWC 'R Gapminder' de inglés a español
+- Practica como usar git y github para publicar la leccion traducida
 - Practica enseñando las lecciones y obtén valiosos comentarios de tus compañeros
 - Planificar un taller oficial de SWC (quizás al fin de Marzo)
 
