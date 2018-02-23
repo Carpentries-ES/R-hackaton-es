@@ -17,7 +17,7 @@
 | ----- | --------- |
 | 13:00 | Bienvenida e introducciones |
 | 13:30 | Descripción de las prácticas de enseñanza de SWC y la lección 'R Gapminder' |
-| 14:00 | [Apoyar con la traducción de la lección SWC 'R Gapminder'](https://github.com/Carpentries-ES/r-novice-gapminder/issues/46) |
+| 14:00 | [Apoyar con la traducción de la lección SWC 'R Gapminder'](https://github.com/Carpentries-ES/r-novice-gapminder/) |
 | 15:00 | Descanso |
 | 15:30 | Práctica enseñando las lecciones |
 | 16:30 | Descanso |
