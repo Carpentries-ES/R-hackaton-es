@@ -1,8 +1,8 @@
 # R Hackatón 
  
-##  Hackatón para apoyar con la traducción de la "R Gapminder" leccion de Software Carpentry al español
+##  Hackatón para apoyar con la traducción de la "R Gapminder" lección de Software Carpentry al español
 
-- **Location:** R'lyeh Hacklab [¿Cómo ir al lab?](https://wiki.rlab.be/doku.php?id=como-llegar)
+- **Lugar:** R'lyeh Hacklab [¿Cómo ir al lab?](https://wiki.rlab.be/doku.php?id=como-llegar)
 - **Cuando:** 24 Febrero 2018 de 13:00 a 20:00
 
 ## Metas y objectives
@@ -10,18 +10,18 @@
 - Continúa traduciendo la lección SWC 'R Gapminder' de inglés a español
 - Practica como usar git y github para publicar la leccion traducida
 - Practica enseñando las lecciones y obtén valiosos comentarios de tus compañeros
-- Planifique un taller oficial de SWC (quizás al fin de Marzo)
+- Planificar un taller oficial de SWC (quizás al fin de Marzo)
 
 ## Agenda
 
-| Time | Activity |
+| Hora | Actividad |
 | ----- | --------- |
 | 13:00 | Bienvenida e introducciones |
 | 13:30 | Descripción de las prácticas de enseñanza de SWC y la lección 'R Gapminder' |
-| 14:00 | [Apoyar con la traducción de la lección SWC 'R Gapminder'](https://github.com/Carpentries-ES/r-novice-gapminder/issues/46) |
-| 15:30 | Almuerzo |
-| 15:30 | Practica enseñando las lecciones |
-| 18:30 | Descanso |
+| 14:00 | [Apoyar con la traducción de la lección SWC 'R Gapminder'](https://github.com/Carpentries-ES/r-novice-gapminder/) |
+| 15:00 | Descanso |
+| 15:30 | Práctica enseñando las lecciones |
+| 16:30 | Descanso |
 | 17:00 | Planifique un taller oficial de SWC |
 | 17:45 | Conclusión y foto de grupo |
 
@@ -38,7 +38,7 @@
 - Rayna Harris | [@raynamharis](https://github.com/raynamharris) | [@raynamharis](https://twitter.com/raynamharris)
 - Juli Arancio | [@thessaly](https://github.com/thessaly) | [@Cassandreces](https://twitter.com/Cassandreces)
 - Panda | [@marshmaline](https://github.com/marshmaline)
--
+- Guillermo Movia | [@deimidis](https://github.com/deimidis) | [@deimidis](https://twitter.com/deimidis)
 -
 -
 -
