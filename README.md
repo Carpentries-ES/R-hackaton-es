@@ -27,6 +27,10 @@
 | 17:00 | Planifique un taller oficial de SWC |
 | 17:45 | Conclusión y foto de grupo |
 
+## Software Carpentry Etherpad
+Podemos usar este documento colaborativo para tomar notas durante el hackaton: 
+http://pad.software-carpentry.org/2018-02-24-hackaton
+
 ## Resources
 - **R'lyeh Hacklab**: https://t.co/YrSxvgAKWc
 - **Software Carpentry (SWC) website**: https://software-carpentry.org/
