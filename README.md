@@ -44,8 +44,9 @@ http://pad.software-carpentry.org/2018-02-24-hackaton
 - Nombre | GitHub | Twitter
 - Rayna Harris | [@raynamharis](https://github.com/raynamharris) | [@raynamharis](https://twitter.com/raynamharris)
 - Juli Arancio | [@thessaly](https://github.com/thessaly) | [@Cassandreces](https://twitter.com/Cassandreces)
-- Panda | [@marshmaline](https://github.com/marshmaline)
+- Marceline Abadeer | [@marshmaline](https://github.com/marshmaline)
 - Guillermo Movia | [@deimidis](https://github.com/deimidis) | [@deimidis](https://twitter.com/deimidis)
+- Cynpy | [@Cynpy](https://github.com/cyncyncyn) | [@Cynpy](https://twitter.com/cynpy)
 -
 -
 -
