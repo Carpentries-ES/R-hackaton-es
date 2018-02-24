@@ -20,7 +20,7 @@
 | ----- | --------- |
 | 13:00 | Bienvenida e introducciones |
 | 13:30 | Descripción de las prácticas de enseñanza de SWC y la lección 'R Gapminder' |
-| 14:00 | [Apoyar con la traducción de la lección SWC 'R Gapminder'](https://github.com/Carpentries-ES/r-novice-gapminder/) |
+| 14:00 | [Apoyar con la traducción de la lección SWC 'R Gapminder'](https://github.com/Carpentries-ES/r-novice-gapminder/issues/48) <br> [Apoyar con la traducción de la **workshop-template-es**](https://github.com/Carpentries-ES/workshop-template-es/issues)|
 | 15:00 | Descanso |
 | 15:30 | [Práctica enseñando las lecciones](http://carpentries.github.io/instructor-training/11-practice-teaching/) |
 | 16:30 | Descanso |
@@ -38,6 +38,7 @@ http://pad.software-carpentry.org/2018-02-24-hackaton
 - **R Gapminder lección en español**: https://github.com/Carpentries-ES/r-novice-gapminder
 - **UNIX lección en español**: https://swcarpentry.github.io/shell-novice-es/
 - **Git lección en español**: https://swcarpentry.github.io/git-novice-es/
+- **Carpentry Instructor Training**: http://carpentries.github.io/instructor-training/
 
 ## Participantes
 - Nombre | GitHub | Twitter
