@@ -16,16 +16,16 @@
 
 ## Agenda
 
-| Hora | Actividad |
-| ----- | --------- |
-| 15:00 | Bienvenida e introducciones |
-| 15:30 | Descripción de las prácticas de enseñanza de SWC y la lección 'R Gapminder' |
-| 16:00 | [Apoyar con la traducción de la lección **SWC 'R Gapminder**'](https://github.com/Carpentries-ES/r-novice-gapminder/issues/48) <br> [Apoyar con la traducción de la **workshop-template-es**](https://github.com/Carpentries-ES/workshop-template-es/issues)|
-| 17:00 | Descanso |
-| 17:30 | [Práctica enseñando las lecciones](http://carpentries.github.io/instructor-training/11-practice-teaching/) |
-| 18:30 | Descanso |
-| 19:00 | Planifique un taller oficial de SWC |
-| 19:45 | Conclusión y foto de grupo |
+| Actividad |
+| --------- |
+| Bienvenida e introducciones |
+| Descripción de las prácticas de enseñanza de SWC y la lección 'R Gapminder' |
+| [Apoyar con la traducción de la lección **SWC 'R Gapminder**'](https://github.com/Carpentries-ES/r-novice-gapminder/issues/48) <br> [Apoyar con la traducción de la **workshop-template-es**](https://github.com/Carpentries-ES/workshop-template-es/issues)|
+| Descanso |
+| [Práctica enseñando las lecciones](http://carpentries.github.io/instructor-training/11-practice-teaching/) |
+| Descanso |
+| Planifique un taller oficial de SWC |
+| Conclusión y foto de grupo |
 
 ## Software Carpentry Etherpad
 Podemos usar este documento colaborativo para tomar notas durante el hackaton: 
