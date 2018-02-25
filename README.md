@@ -47,9 +47,8 @@ http://pad.software-carpentry.org/2018-02-24-hackaton
 - Marceline Abadeer | [@marshmaline](https://github.com/marshmaline)
 - Guillermo Movia | [@deimidis](https://github.com/deimidis) | [@deimidis](https://twitter.com/deimidis)
 - Cynpy | [@Cynpy](https://github.com/cyncyncyn) | [@Cynpy](https://twitter.com/cynpy)
--
--
--
--
--
--
+- gonzacabrera | @zero 
+- Paola | @paoprieto
+- Nico | @nicolascantarutti 
+- tom | @to_more
+- Adrianzo | @Adrianzo
